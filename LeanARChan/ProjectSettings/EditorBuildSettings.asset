@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Scenes/DeviceSupport/Camera_VideoCamera.unity
+    guid: 0b6edb4b034991e44b22804ebfc21b15
+  - enabled: 1
+    path: Assets/Samples/Scenes/DeviceSupport/FrameRecording.unity
+    guid: bfa7a604e7ede7c4588acb144f0e4b49
+  - enabled: 1
+    path: Assets/Samples/Scenes/DeviceSupport/VideoRecording.unity
+    guid: 8c9dc777120123c4297fe062a888f708
+  - enabled: 1
+    path: Assets/Samples/Scenes/ObjectSensing/ImageTracking_CloudRecognition.unity
+    guid: 76895b1b9ab37534b91552832fefed57
+  - enabled: 1
+    path: Assets/Samples/Scenes/ObjectSensing/ImageTracking_Coloring3D.unity
+    guid: 1a6201140b1a8ee45b50d29820ffa2d4
+  - enabled: 1
+    path: Assets/Samples/Scenes/ObjectSensing/ImageTracking_MotionExtend.unity
+    guid: ddaaf5cbd92ffdb44b2cb3528f72edd6
+  - enabled: 1
+    path: Assets/Samples/Scenes/ObjectSensing/ImageTracking_TargetOnTheFly.unity
+    guid: 16e2e6f5cde19294a8d47389fd1d6c30
+  - enabled: 1
+    path: Assets/Samples/Scenes/ObjectSensing/ImageTracking_Targets.unity
+    guid: c5633c5dd1eaddf4ab5995534d042779
+  - enabled: 1
+    path: Assets/Samples/Scenes/ObjectSensing/ImageTracking_Video.unity
+    guid: 26dd799d8465cd549887514f75c5546e
+  - enabled: 1
+    path: Assets/Samples/Scenes/ObjectSensing/MultiTarget_MultiTracker.unity
+    guid: c97ae6e3fd841f8408b2b88c6c70b64d
+  - enabled: 1
+    path: Assets/Samples/Scenes/WorldSensing/MapBuilding_Sparse.unity
+    guid: a99ed61d612e66a4c8d387474815569f
+  - enabled: 1
+    path: Assets/Samples/Scenes/WorldSensing/MapBuilding_Sparse_Dense.unity
+    guid: f15afc49bdc8de843bb1ca51bfb500ab
+  - enabled: 1
+    path: Assets/Samples/Scenes/WorldSensing/MapLocalizing_Sparse.unity
+    guid: 3254dcec68ff11a47a7a2a487f96e470
+  - enabled: 1
+    path: Assets/Samples/Scenes/WorldSensing/MotionTracking.unity
+    guid: 584466c35187f864e8e822014ad6c0d0
+  - enabled: 1
+    path: Assets/Samples/Scenes/WorldSensing/MotionTracking_ImageTarget.unity
+    guid: 912896bece7b41e4391e7147ec5b24ab
+  - enabled: 1
+    path: Assets/Samples/Scenes/WorldSensing/SpatialMap_Dense_BallGame.unity
+    guid: 2e824238374dbec428bc4a6184d43df8
+  - enabled: 1
+    path: Assets/Samples/Scenes/WorldSensing/SpatialMap_Sparse_ImageTarget.unity
+    guid: a00e0fae6db8318408c0ccaf046075fa
+  - enabled: 1
+    path: Assets/Samples/Scenes/WorldSensing/SpatialMap_SparseSpatialMap.unity
+    guid: 645e981584f1b444d94efe78e24ee749
+  - enabled: 1
+    path: Assets/Samples/Scenes/AllSamplesLauncher.unity
+    guid: 0bd1c9be3d4ef114c83f109b09b30548
+  - enabled: 1
+    path: Assets/Samples/Scenes/WorldSensing/SurfaceTracking.unity
+    guid: 29d9671db051e914eabc94c5ff47ece2
+  - enabled: 1
+    path: Assets/Samples/Scenes/WorldSensing/SurfaceTracking_ImageTarget.unity
+    guid: 647dd780d097cf84da4ba6e56371e912
+  - enabled: 1
+    path: Assets/Samples/Scenes/ObjectSensing/MultiTarget_MultiType.unity
+    guid: 4311bc1827780bc41b0f22762301f00b
+  - enabled: 1
+    path: Assets/Samples/Scenes/ObjectSensing/MultiTarget_SameImage.unity
+    guid: df80e0f98abb4c846823df0f5ccaab04
+  - enabled: 1
+    path: Assets/Samples/Scenes/ObjectSensing/MultiTarget_SingleTracker.unity
+    guid: ae163b03555ac5647a3057d750f54d9d
+  - enabled: 1
+    path: Assets/Samples/Scenes/ObjectSensing/ObjectTracking.unity
+    guid: a7d4a9c21f3b1b643a0bf2a20902b959
+  m_configObjects: {}
